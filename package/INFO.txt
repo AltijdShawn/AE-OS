@@ -1,0 +1,18 @@
+WARNING!!!!
+This script currently only works on manjaro and endeavour os.
+
+Okay so this script will turn your os into vanilla arch.
+So yeah. this script will run 2 scripts the first one will convert your os and the second one installs some extra things
+
+The extra things that are installed are:
+- zsh 
+- fortune-mod
+- cowsay
+- visual-studio-code-bin
+- google-chrome
+- armcord
+- kitty
+- lolcat
+- shell-color-scripts
+- bat
+- oh my zsh (and a few plugins and it's gonna get automatically configured)
