@@ -1,9 +1,0 @@
-READ CAREFULLY!!!
-
-STEP 1 (AFTER EVERY ENDEAVOUROS OR MANJARO INSTALATION YOU WANT TO TURN INTO ARCH)
-Run: bash ./to-arch.sh
-from this folder and be sure do read everything it says carefully.
-
-STEP 2 (This is what you always want to do if you are using this)
-Run: bash ./PostInstallScript.sh
-from this folder
